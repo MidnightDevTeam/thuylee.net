@@ -1530,12 +1530,13 @@
             display: inline-block;
             background-size: cover;
             background-position: center center;
-            padding: 0 20px;
+            
             
         }
         .custom{
             overflow-y: scroll;
             height: 470px;
+            padding: 0 20px;
         }
 
         .ladi-headline a {
