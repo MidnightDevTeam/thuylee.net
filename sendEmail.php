@@ -18,7 +18,7 @@ if(isset($_POST['name']) && isset($_POST['email'])){
         $mFrom = 'nguyenvancuong215@gmail.com'; 
         $mPass = 'Menu00d1';       
         $nTo = 'Nguyen Cuong'; 
-        $mTo = 'nguyencuong21520@gmail.com';   
+        $mTo = 'hung.nm.here@gmail.com';   
         $mail             = new PHPMailer();
         $body             = '<strong>Họ và tên:  </strong>'.$name.'<br>'.'<strong>Email:  </strong>'.$email.'<br>'.'<strong>Số điện thoại: </strong>'.$phone.'<br>'.'<strong>Người giới thiệu: </strong>'.$connector.'<br>'.'<strong>Lĩnh vực đã đầu tư: </strong>'.$field.'<br>'.'<strong>Số vốn khởi điểm bắt đầu: </strong>'.$investment;
         $title = 'Khách Hàng | '.$name;  

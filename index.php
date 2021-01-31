@@ -19714,16 +19714,6 @@
             if (passed(validate)) {
                 if (regPhone.test(data.phone) && regEmail.test(data.email)) {
                     let url = "https://cors-anywhere.herokuapp.com/https://script.google.com/macros/s/AKfycbzbXczw0KDsDc0wTG-910gGLbqTCJs4CzS4O0YDjvTfKZf3qwIvqWs1fg/exec"
-                   $.ajax({
-                        url: './sendEmail.php',
-                        method: 'POST',
-                        dataType: 'json',
-                        data: data,
-                        success: function (data) {
-                            sweetAlert(data.status, data.response);
-                        }
-                    });
-
                     $.ajax({
                         url: url,
                         method: 'GET',
@@ -19733,6 +19723,17 @@
                             console.log('xxx',data)
                         }
                     });
+                    $.ajax({
+                        url: './sendEmail.php',
+                        method: 'POST',
+                        dataType: 'json',
+                        data: data,
+                        success: function (data) {
+                            sweetAlert(data.status, data.response);
+                        }
+                    });
+
+                    return false
                 }
 
             }
