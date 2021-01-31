@@ -1526,9 +1526,16 @@
 
         .ladi-headline {
             width: 100%;
+            height: 50px;
             display: inline-block;
             background-size: cover;
-            background-position: center center
+            background-position: center center;
+            padding: 0 20px;
+            
+        }
+        .custom{
+            overflow-y: scroll;
+            height: 470px;
         }
 
         .ladi-headline a {
@@ -11659,7 +11666,7 @@
                 height: 617.07px;
                 top: -67.07px;
                 left: -0.9636px;
-                background-image: url("https://w.ladicdn.com/s800x950/5ff990695a13fd0012a878f1/photo_2020-12-27_20-48-15-nguyen-tham-20210110055753.jpg");
+                background-image: url("./img/z2301351709300_d6fac6023042b7ea26cd85a2e37661d6.jpg");
             }
 
             #IMAGE4491>.ladi-image {
@@ -11683,6 +11690,7 @@
                 width: 401px;
                 top: 563px;
                 left: 10px;
+                
             }
 
             #HEADLINE4493>.ladi-headline {
@@ -13198,7 +13206,7 @@
                 height: 210px;
                 top: -23.452px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s750x550/5ff990695a13fd0012a878f1/photo_2020-12-27_20-40-14-nguyen-tham-20210115175511.jpg");
+                background-image: url("./img/z2301352434189_68ec575e018e686ba02eaa177debdfe1.jpg");
             }
 
             #IMAGE5900.ladi-animation>.ladi-image {
@@ -13249,8 +13257,8 @@
                 width: 400px;
                 height: 533.333px;
                 top: -105px;
-                left: 0px;
-                background-image: url("https://w.ladicdn.com/s750x850/5ff990695a13fd0012a878f1/photo_2020-12-27_20-48-15-nguyen-tham-20210110055753.jpg");
+                left: -20px;
+                background-image: url("./img/z2301352450774_21f8b83969ac064a0c99e53f125ef6ab.jpg");
             }
 
             #IMAGE5904.ladi-animation>.ladi-image {
@@ -13655,7 +13663,7 @@
                 height: 382.812px;
                 top: -51px;
                 left: -80px;
-                background-image: url("https://w.ladicdn.com/s900x700/5ff990695a13fd0012a878f1/photo_2020-12-27_20-40-04-3-nguyen-tham-20210110055753.jpg");
+                background-image: url("./img/z2301352473931_37803f2892538133f91808772065046c.jpg");
             }
 
             #IMAGE5902.ladi-animation>.ladi-image {
@@ -17359,46 +17367,51 @@
         <div id="SECTION4489" class='ladi-section'>
             <div class='ladi-section-background'></div>
             <div class="ladi-container">
-                <div id="HEADLINE4493" class='ladi-element'>
-                    <h3 class='ladi-headline'>Đó là đầu tư vào đội ngũ LION COMMUNITY,
-                        bạn ý nói đây là đội ngũ chuyên nghiệp hàng đầu Việt Nam về xây dựng đội nhóm và giao dịch forex
-                        hiện đại, đem lại cho các nhà đầu tư xấp xỉ 1% mỗi ngày, và xấp xỉ từ 20% đến 22% mỗi tháng.
-                        Tính đến tháng 7 năm 2010, đội nhóm đã đi được một năm mà chưa nhà đầu tư nào mất một xu.
 
-                        Nghe bạn nói vậy Lúc đó tôi cũng không tin vì lãi suất ngân hàng cũng chỉ khoảng 6% một năm,
-                        Nhưng tôi chợt nghĩ mình đang ở nhà nghỉ dịch tại sao lại không thử tìm hiểu, tôi nghĩ 23 triệu
-                        700k nếu mất cũng không làm gia đình tôi phải nghèo đi. Nếu tốt thì đây là 1 cơ hội. Không suy
-                        nghĩ nữa, tôi quyết định đầu tư thử 1000$, nhân lúc đang nghỉ dịch. Tôi dành thời gian theo dõi
-                        nhóm tìm hiểu qua các buổi zoom. Tìm hiểu về thầy Iker Phương, tứ đại củ hành.
+                <div>
+                    <div id="HEADLINE4493" class='ladi-element'>
+                        <h3 class='ladi-headline custom'>Đó là đầu tư vào đội ngũ LION COMMUNITY,
+                            bạn ý nói đây là đội ngũ chuyên nghiệp hàng đầu Việt Nam về xây dựng đội nhóm và giao dịch forex
+                            hiện đại, đem lại cho các nhà đầu tư xấp xỉ 1% mỗi ngày, và xấp xỉ từ 20% đến 22% mỗi tháng.
+                            Tính đến tháng 7 năm 2010, đội nhóm đã đi được một năm mà chưa nhà đầu tư nào mất một xu.
+    
+                            Nghe bạn nói vậy Lúc đó tôi cũng không tin vì lãi suất ngân hàng cũng chỉ khoảng 6% một năm,
+                            Nhưng tôi chợt nghĩ mình đang ở nhà nghỉ dịch tại sao lại không thử tìm hiểu, tôi nghĩ 23 triệu
+                            700k nếu mất cũng không làm gia đình tôi phải nghèo đi. Nếu tốt thì đây là 1 cơ hội. Không suy
+                            nghĩ nữa, tôi quyết định đầu tư thử 1000$, nhân lúc đang nghỉ dịch. Tôi dành thời gian theo dõi
+                            nhóm tìm hiểu qua các buổi zoom. Tìm hiểu về thầy Iker Phương, tứ đại củ hành.
+    
+                            Tôi thấy được sự chuyên nghiệp của Lion community trong xây dựng đội nhóm và được nâng cấp bản
+                            thân qua các buổi đào tạo zoom.
+                            Cùng lúc đấy, chị gái tôi gọi điện cũng than thở dịch COVID nên bị cấm mở các hoạt động kinh
+                            doanh ẩm thực nhà hàng. Tôi đem câu chuyện về LION COMMUNITY chia sẻ cho chị gái và cho mẹ tôi.
+                            Mẹ tôi từ một người nông dân thực thụ giờ có thu nhập hàng tháng gần 20 triệu, mẹ tôi rất vui vì
+                            ở cái tuổi 70 là lúc được nghỉ ngơi không phải phơi lưng ra đồng ruộng nữa. Chị gái tôi cũng có
+                            thêm thu nhập bù vào những ngày tháng không có khách hàng cửa hàng đóng cửa, ế ẩm. Tôi cũng chia
+                            sẻ giúp đỡ được bao nhiêu chị em bạn bè, các mẹ Bỉm Sữa hàng tháng có thu nhập ít nhất từ 5
+                            triệu đến 100 triệu mỗi tháng.
+                            Trong suốt quá trình tham gia tôi luôn dành thêm thời gian để tìm hiểu về thị trường forex tham
+                            gia các buổi đào tạo zoom của Lion community về các giải pháp giao dịch, về sự chuyên nghiệp của
+                            một đội nhóm, mang lại lòng tin cho hơn 40 ngàn nhà đầu tư trong và ngoài nước.
+                            Còn các bạn thì sao?? Nếu có ai đó chia sẻ một cơ hội hãy nắm bắt và tìm hiểu nó. Nếu bạn thực
+                            sự muốn có thêm một nguồn thu nhập thụ động xấp xỉ 1% lợi nhuận mỗi ngày và giao động từ 20% đến
+                            22% mỗi tháng giống như tôi thì đừng chần chừ gì nữa, vì thời gian không đợi ai bao giờ, mất
+                            thời gian là mất tiền.
+                            Hãy liên hệ ngay với tôi nhé,
+                            Tôi yêu bạn, Tôi yêu lion community.
+                            <br></h3>
+                    </div>
+                    <!-- <div id="HEADLINE4529" class='ladi-element'>
+                        <h3 class='ladi-headline'></h3>
+                    </div> -->
 
-                        Tôi thấy được sự chuyên nghiệp của Lion community trong xây dựng đội nhóm và được nâng cấp bản
-                        thân qua các buổi đào tạo zoom.
-                        Cùng lúc đấy, chị gái tôi gọi điện cũng than thở dịch COVID nên bị cấm mở các hoạt động kinh
-                        doanh ẩm thực nhà hàng. Tôi đem câu chuyện về LION COMMUNITY chia sẻ cho chị gái và cho mẹ tôi.
-                        Mẹ tôi từ một người nông dân thực thụ giờ có thu nhập hàng tháng gần 20 triệu, mẹ tôi rất vui vì
-                        ở cái tuổi 70 là lúc được nghỉ ngơi không phải phơi lưng ra đồng ruộng nữa. Chị gái tôi cũng có
-                        thêm thu nhập bù vào những ngày tháng không có khách hàng cửa hàng đóng cửa, ế ẩm. Tôi cũng chia
-                        sẻ giúp đỡ được bao nhiêu chị em bạn bè, các mẹ Bỉm Sữa hàng tháng có thu nhập ít nhất từ 5
-                        triệu đến 100 triệu mỗi tháng.
-                        Trong suốt quá trình tham gia tôi luôn dành thêm thời gian để tìm hiểu về thị trường forex tham
-                        gia các buổi đào tạo zoom của Lion community về các giải pháp giao dịch, về sự chuyên nghiệp của
-                        một đội nhóm, mang lại lòng tin cho hơn 40 ngàn nhà đầu tư trong và ngoài nước.
-                        Còn các bạn thì sao?? Nếu có ai đó chia sẻ một cơ hội hãy nắm bắt và tìm hiểu nó. Nếu bạn thực
-                        sự muốn có thêm một nguồn thu nhập thụ động xấp xỉ 1% lợi nhuận mỗi ngày và giao động từ 20% đến
-                        22% mỗi tháng giống như tôi thì đừng chần chừ gì nữa, vì thời gian không đợi ai bao giờ, mất
-                        thời gian là mất tiền.
-                        Hãy liên hệ ngay với tôi nhé,
-                        Tôi yêu bạn, Tôi yêu lion community.
-                        <br></h3>
-                </div>
-                <div id="HEADLINE4529" class='ladi-element'>
-                    <h3 class='ladi-headline'></h3>
-                </div>
-                <div id="IMAGE4491" class='ladi-element'>
-                    <div class='ladi-image'>
-                        <div class="ladi-image-background"></div>
+                    <div id="IMAGE4491" class='ladi-element'>
+                        <div class='ladi-image'>
+                            <div class="ladi-image-background"></div>
+                        </div>
                     </div>
                 </div>
+                
                 <div id="IMAGE5900" class='ladi-element'>
                     <div class='ladi-image'>
                         <div class="ladi-image-background"></div>
