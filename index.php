@@ -17400,7 +17400,7 @@
                             22% mỗi tháng giống như tôi thì đừng chần chừ gì nữa, vì thời gian không đợi ai bao giờ, mất
                             thời gian là mất tiền.
                             Hãy liên hệ ngay với tôi nhé,
-                            Tôi yêu bạn, Tôi yêu lion community.
+                            Tôi yêu bạn, Tôi yêu Lion Community.
                             <br></h3>
                     </div>
                     <!-- <div id="HEADLINE4529" class='ladi-element'>
