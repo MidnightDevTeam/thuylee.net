@@ -12,6 +12,7 @@
         content="Lion Community là một cộng đồng đầu tư tài chính hàng đầu Việt Nam đang hỗ trợ hơn 50.000 nhà đầu tư có lợi nhuận đều đặn mỗi ngày từ thị trường tài chính forex hiện đại. Trong nhiều năm tới, mục tiêu giúp 1.000.000 người dân Việt Nam trở nên thành công và giàu có.">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="./packet/sweetalert2.css">
+    
     <script id='script_viewport' type='text/javascript'>
         window.ladi_viewport = function () {
             var width = window.outerWidth > 0 ? window.outerWidth : window.screen.width;
@@ -19757,6 +19758,7 @@
 
         })
     </script>
+    
 </body>
 
 </html>
