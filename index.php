@@ -17043,7 +17043,7 @@
                 </div>
                 <div id="HEADLINE5966" class='ladi-element'>
                     <h3 class='ladi-headline'><span class="ladipage-animated-headline rotate-3"><span
-                                class="ladipage-animated-words-wrapper" data-word="[&quot;LION COMMUNITY&quot;]">LION
+                                class="ladipage-animated-words-wrapper">LION
                                 COMMUNITY</span></span></h3>
                 </div>
                 <div id="HEADLINE5973" class='ladi-element'>
@@ -18699,9 +18699,8 @@
                         </div>
                         <div id="HEADLINE6243" class='ladi-element'>
                             <h6 class='ladi-headline'><span class="ladipage-animated-headline rotate-3"><span
-                                        class="ladipage-animated-words-wrapper"
-                                        data-word="[&quot;về Lion Community, FX Trading Markets và thị trường Forex&quot;]">về
-                                        Lion Community, FX Trading Markets và thị trường Forex</span></span></h6>
+                                        class="ladipage-animated-words-wrapper">
+                                        về Lion Community, FX Trading Markets và thị trường Forex</span></span></h6>
                         </div>
                     </div>
                 </div>
