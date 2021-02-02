@@ -1539,7 +1539,11 @@
             height: 470px;
             padding: 0 20px;
         }
-
+        @media (max-width: 767px){
+            .custom{
+                height: 700px;
+            }
+        }
         .ladi-headline a {
             text-decoration: underline
         }
@@ -3834,7 +3838,7 @@
                 height: 328.187px;
                 top: -97.3313px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s750x650/5ff990695a13fd0012a878f1/photo_2020-12-27_20-48-14-nguyen-tham-20210115175511.jpg");
+                background-image: url("./img/z2301352733894_c8457e5cb775e2d35bde3c6c2ea2c397.jpg");
             }
 
             #GROUP4363 {
@@ -3879,7 +3883,7 @@
                 height: 315.721px;
                 top: -85.3313px;
                 left: 0px;
-                background-image: url("https://w.ladicdn.com/s800x650/5ff990695a13fd0012a878f1/6-20210109132212.jpg");
+                background-image: url("./img/z2301352434189_68ec575e018e686ba02eaa177debdfe1.jpg");
             }
 
             #GROUP4364 {
@@ -11383,7 +11387,7 @@
                 height: 296.19px;
                 top: -60px;
                 left: 0px;
-                background-image: url("./img/z2301352473931_37803f2892538133f91808772065046c.jpg");
+                background-image: url("./img/z2301352733894_c8457e5cb775e2d35bde3c6c2ea2c397.jpg");
             }
 
             #GROUP4363 {
@@ -11428,7 +11432,7 @@
                 height: 273.28px;
                 top: -60px;
                 left: 0px;
-                background-image: url("./img/z2301352450774_21f8b83969ac064a0c99e53f125ef6ab.jpg");
+                background-image: url("./img/z2301352434189_68ec575e018e686ba02eaa177debdfe1.jpg");
             }
 
             #GROUP4364 {
@@ -13256,11 +13260,11 @@
             }
 
             #IMAGE5904>.ladi-image>.ladi-image-background {
-                width: 400px;
+                width: 430px;
                 height: 533.333px;
                 top: -105px;
                 left: -20px;
-                background-image: url("./img/z2301352450774_21f8b83969ac064a0c99e53f125ef6ab.jpg");
+                background-image: url("./img/z2301352733894_c8457e5cb775e2d35bde3c6c2ea2c397.jpg");
             }
 
             #IMAGE5904.ladi-animation>.ladi-image {
@@ -14990,7 +14994,7 @@
                 height: 246.476px;
                 /* top: -100px; */
                 /* left: -16.4526px; */
-                background-image: url("./img/z2301352733894_c8457e5cb775e2d35bde3c6c2ea2c397.jpg");
+                background-image: url("https://w.ladicdn.com/s750x550/5d62064e6493160881976e6a/10-min-20210103113113.png");
                 background-position: center center;
             }
 
@@ -15019,7 +15023,7 @@
             #IMAGE6162>.ladi-image>.ladi-image-background {
                 /* width: 431.211px; */
                 /* height: 242.529px; */
-                background-image: url("./img/z2301352434189_68ec575e018e686ba02eaa177debdfe1.jpg");
+                background-image: url("https://w.ladicdn.com/s750x550/5d62064e6493160881976e6a/15-min-20210103113126.png");
                 background-position: center center;
             }
 
@@ -17039,7 +17043,7 @@
                 </div>
                 <div id="HEADLINE5966" class='ladi-element'>
                     <h3 class='ladi-headline'><span class="ladipage-animated-headline rotate-3"><span
-                                class="ladipage-animated-words-wrapper" data-word="[&quot;LION COMMUNITY&quot;]">LION
+                                class="ladipage-animated-words-wrapper">LION
                                 COMMUNITY</span></span></h3>
                 </div>
                 <div id="HEADLINE5973" class='ladi-element'>
@@ -17164,7 +17168,6 @@
                         thế giới.
                         Tất cả các hoạt động sản xuất kinh doanh đều có chiều đi xuống. Công ty tôi cũng không nằm ngoài
                         vòng xoáy đó.
-                        Hiện tại tôi đang sống và làm việc tại Quảng Ninh.
                         <br><br>Do ảnh hưởng dịch covid, tình hình sản xuất kinh doanh của Công ty giảm đáng kể.
                         Công ty cho nhân viên thay nhau nghỉ việc, đồng nghĩa với việc giảm thu nhập. Lúc ấy tôi thực sự
                         bế tắc và thử mọi công việc, từ bán hàng online đến tham gia các game kiếm tiền trên mạng, nhưng
@@ -17400,7 +17403,8 @@
                             22% mỗi tháng giống như tôi thì đừng chần chừ gì nữa, vì thời gian không đợi ai bao giờ, mất
                             thời gian là mất tiền.
                             Hãy liên hệ ngay với tôi nhé,
-                            Tôi yêu bạn, Tôi yêu lion community.
+                            <br>
+                            Tôi yêu bạn, Tôi yêu Lion Community.
                             <br></h3>
                     </div>
                     <!-- <div id="HEADLINE4529" class='ladi-element'>
@@ -17419,11 +17423,17 @@
                         <div class="ladi-image-background"></div>
                     </div>
                 </div>
-                <div id="IMAGE5904" class='ladi-element'>
+                <div id="IMAGE5904" class='ladi-element custom5904'>
                     <div class='ladi-image'>
                         <div class="ladi-image-background"></div>
                     </div>
                 </div>
+                <!-- <style>
+                    .custom5904{
+                        height: 0px!important;
+                        /* visibility: hidden; */
+                    }
+                </style> -->
                 <div id="IMAGE5903" class='ladi-element'>
                     <div class='ladi-image'>
                         <div class="ladi-image-background"></div>
@@ -18689,9 +18699,8 @@
                         </div>
                         <div id="HEADLINE6243" class='ladi-element'>
                             <h6 class='ladi-headline'><span class="ladipage-animated-headline rotate-3"><span
-                                        class="ladipage-animated-words-wrapper"
-                                        data-word="[&quot;về Lion Community, FX Trading Markets và thị trường Forex&quot;]">về
-                                        Lion Community, FX Trading Markets và thị trường Forex</span></span></h6>
+                                        class="ladipage-animated-words-wrapper">
+                                        về Lion Community, FX Trading Markets và thị trường Forex</span></span></h6>
                         </div>
                     </div>
                 </div>
