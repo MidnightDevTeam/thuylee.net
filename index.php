@@ -3838,7 +3838,7 @@
                 height: 328.187px;
                 top: -97.3313px;
                 left: 0px;
-                background-image: url("./img/z2301352733894_c8457e5cb775e2d35bde3c6c2ea2c397.jpg");
+                background-image: url("./img/thuylee.1.jpg");
             }
 
             #GROUP4363 {
@@ -3883,7 +3883,7 @@
                 height: 315.721px;
                 top: -85.3313px;
                 left: 0px;
-                background-image: url("./img/z2301352434189_68ec575e018e686ba02eaa177debdfe1.jpg");
+                background-image: url("./img/thuylee2.jpg");
             }
 
             #GROUP4364 {
@@ -4123,7 +4123,7 @@
                 height: 547.444px;
                 top: -86.444px;
                 left: 0px;
-                background-image: url("./img/z2301351709300_d6fac6023042b7ea26cd85a2e37661d6.jpg");
+                background-image: url("./img/ava1.jpg");
                 background-position: center;
                 object-fit: cover;
             }
@@ -11387,7 +11387,7 @@
                 height: 296.19px;
                 top: -60px;
                 left: 0px;
-                background-image: url("./img/z2301352733894_c8457e5cb775e2d35bde3c6c2ea2c397.jpg");
+                background-image: url("./img/thuylee.1.jpg");
             }
 
             #GROUP4363 {
@@ -11432,7 +11432,7 @@
                 height: 273.28px;
                 top: -60px;
                 left: 0px;
-                background-image: url("./img/z2301352434189_68ec575e018e686ba02eaa177debdfe1.jpg");
+                background-image: url("./img/thuylee2.jpg");
             }
 
             #GROUP4364 {
@@ -11672,7 +11672,7 @@
                 height: 617.07px;
                 top: -67.07px;
                 left: -0.9636px;
-                background-image: url("./img/z2301351709300_d6fac6023042b7ea26cd85a2e37661d6.jpg");
+                background-image: url("./img/ava1.jpg");
             }
 
             #IMAGE4491>.ladi-image {
@@ -17380,7 +17380,7 @@
                             hiện đại, đem lại cho các nhà đầu tư xấp xỉ 1% mỗi ngày, và xấp xỉ từ 20% đến 22% mỗi tháng.
                             Tính đến tháng 7 năm 2010, đội nhóm đã đi được một năm mà chưa nhà đầu tư nào mất một xu.
     
-                            Nghe bạn nói vậy Lúc đó tôi cũng không tin vì lãi suất ngân hàng cũng chỉ khoảng 6% một năm,
+                            Nghe bạn nói vậy Lúc đó tôi cũng không tin vì lãi suất ngân hàng cũng chỉ khoảng 6% một năm.
                             Nhưng tôi chợt nghĩ mình đang ở nhà nghỉ dịch tại sao lại không thử tìm hiểu, tôi nghĩ 23 triệu
                             700k nếu mất cũng không làm gia đình tôi phải nghèo đi. Nếu tốt thì đây là 1 cơ hội. Không suy
                             nghĩ nữa, tôi quyết định đầu tư thử 1000$, nhân lúc đang nghỉ dịch. Tôi dành thời gian theo dõi
@@ -17404,7 +17404,7 @@
                             thời gian là mất tiền.
                             Hãy liên hệ ngay với tôi nhé,
                             <br>
-                            Tôi yêu bạn, Tôi yêu Lion Community.
+                            TÔI YÊU BẠN, TÔI YÊU LION COMMUNITY.
                             <br></h3>
                     </div>
                     <!-- <div id="HEADLINE4529" class='ladi-element'>
